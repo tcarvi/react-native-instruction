@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+react-native-docs/build
+react-native-docs/node_modules
+my-app/node_modules
+
