@@ -1,5 +1,4 @@
 # react-native-instruction
-Instrução sobre REACT NATIVE
 
 ### Instalação
 - CLI workflow
@@ -19,3 +18,13 @@ Instrução sobre REACT NATIVE
     - npx create-expo-app my-app
     - cd my-app
     - npx expo start
+
+### Execução do Projeto
+- yarn cache clean --all
+    - Usage: yarn cache [ls|list|clean|dir] [flags]
+- yarn install
+    - Usage: yarn install [flags]
+- yarn build
+    - Usage: yarn build [flags]
+- yarn serve
+    - Usage: yarn serve [flags]
