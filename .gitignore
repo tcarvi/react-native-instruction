@@ -18,3 +18,19 @@ react-native-docs/build
 react-native-docs/node_modules
 my-app/node_modules
 
+# Expo Project
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.DS_Store
+yarn-error.log
+.docusaurus/
+build/
